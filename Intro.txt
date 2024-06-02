@@ -1,0 +1,5 @@
+Assignment # 1
+Name: Sami Ahmed
+Id : CSC-20F-152
+Subject : machine Learning 
+Course-supervisor : Sir Shaukat Ali Laghari 
